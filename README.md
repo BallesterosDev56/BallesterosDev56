@@ -30,4 +30,4 @@
 ## 📊 GitHub Stats:
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BallesterosDev56&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/BallesterosDev56/BallesterosDev56/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BallesterosDev56/BallesterosDev56/main/output/github-contribution-grid-snake.svg)
